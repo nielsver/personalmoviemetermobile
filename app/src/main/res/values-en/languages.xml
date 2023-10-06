@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project</string>
+    <string name="MovieScore">MovieScore</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="add">add Movie</string>
+    <string name="search">Search Movie/Categorie</string>
+    <string name="extended_fab_content_desc">Add Movie</string>
+    <string name="insert_title">Add Movie</string>
+    <string name="insert_button">insert</string>
+    <string name="description">Movie description</string>
+    <string name="moviename">Movie Name</string>
+    <string name="details_title">details title</string>
+    <string name="minus_button">-</string>
+    <string name="plus_button">+</string>
+    <string name="Read_More">Read More</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="settings">settings</string>
+    <string name="mode">mode</string>
+    <string name="darkmode">Darkmode</string>
+    <string name="language">language</string>
+    <string name="readmore">Read More</string>
+    <string name="creation">Succesfull Creation</string>
+    <string name="fail">Something went wrong, please try again</string>
+    <string name="delete">delete</string>
+</resources>

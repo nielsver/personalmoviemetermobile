@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project</string>
+    <string name="MovieScore">FilmScore</string>
+    <string name="appwidget_text">Voorbeeld</string>
+    <string name="add_widget">Widget toevoegen</string>
+    <string name="app_widget_description">Dit is een app widget beschrijving</string>
+    <string name="add">Film toevoegen</string>
+    <string name="search">Film zoeken</string>
+    <string name="extended_fab_content_desc">Film toevoegen</string>
+    <string name="insert_title">Film toevoegen</string>
+    <string name="insert_button">toevoegen</string>
+    <string name="description">Film beschrijving</string>
+    <string name="moviename">Film naam</string>
+    <string name="details_title">titel details</string>
+    <string name="minus_button">-</string>
+    <string name="plus_button">+</string>
+    <string name="Read_More">lees meer</string>
+    <string name="title_activity_settings">instellingsactiviteit</string>
+    <string name="settings">instellingen</string>
+    <string name="mode">mode</string>
+    <string name="darkmode">Darkmode</string>
+    <string name="language">taal</string>
+    <string name="readmore">Less meer</string>
+    <string name="creation">Toegevoegd</string>
+    <string name="fail">Er is iets misgegaan, Probeer opnieuw</string>
+    <string name="delete">verwijderen</string>
+</resources>
